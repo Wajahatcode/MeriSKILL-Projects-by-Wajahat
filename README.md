@@ -40,6 +40,10 @@ In "Sales Data Analysis," I worked with a substantial sales dataset to explore v
 **About Dataset:**
 This project focuses on a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. Its objective is to predict whether a patient has diabetes based on diagnostic measurements. The dataset includes specific constraints such as the inclusion of females at least 21 years old of Pima Indian heritage.
 
+**Description:**
+In this project, our goal was to develop a classification model for a diabetes dataset. The aim was to create a model that could accurately predict whether a person is sick or not. We strived to achieve the highest possible validation score for the established model.
+Ultimately, our objective was to build a machine-learning model that could make precise predictions. The model would help us identify whether the patients in the dataset have diabetes or not.
+
 **Expected Skills to Gain:**
 - Data preprocessing and cleaning.
 - Feature selection.

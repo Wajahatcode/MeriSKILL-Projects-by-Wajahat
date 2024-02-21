@@ -1,6 +1,6 @@
 <h1 align = 'center'> MeriSkill Internship
 </h1>
-On Thursday 8th February 2024, I was offered an internship role (Data Analysis) at MeriSkill.
+In January 2024, I was offered an internship role (Data Analysis) at MeriSkill.
 <h2 align ='center'> About MeriSkill
 </h2>
 MeriSKILL is an Edtech platform that offers a social media platform to help users improve their skills, network, and share content. MeriSKILL offers project-based internships that aim to provide real-world skills and knowledge. Projects can be made, taken, or referred to for learning and training purposes. MeriSKILL is a rapidly expanding Edtech platform with a global presence in 50+ countries India, the US, the UK, Canada, and many.
